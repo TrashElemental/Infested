@@ -1,0 +1,21 @@
+{
+  "_fv": 60,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Resistance",
+    "splashName": "Splash Potion of Resistance",
+    "lingeringName": "Lingering Potion of Resistance",
+    "arrowName": "Arrow of Resistance",
+    "effects": [
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 900,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

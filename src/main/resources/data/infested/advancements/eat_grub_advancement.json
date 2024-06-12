@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "infested:fried_grub"
+    },
+    "title": {
+      "translate": "advancements.eat_grub_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.eat_grub_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eat_grub_advancement_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "infested:fried_grub"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "minecraft:husbandry/balanced_diet"
+}

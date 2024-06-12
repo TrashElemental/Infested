@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "infested:block/chitinblock",
+    "top": "infested:block/chitinblock",
+    "side": "infested:block/chitinblock"
+  },
+  "render_type": "solid"
+}

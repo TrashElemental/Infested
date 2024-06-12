@@ -1,0 +1,9 @@
+{
+  "parent": "infested:custom/cobwebtrap",
+  "textures": {
+    "all": "infested:block/groundcobweb",
+    "particle": "infested:block/groundcobweb",
+    "0": "infested:block/groundcobweb"
+  },
+  "render_type": "cutout"
+}

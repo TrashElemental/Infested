@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "infested:block/chitin_slab"
+    },
+    "type=top": {
+      "model": "infested:block/chitin_slab_top"
+    },
+    "type=double": {
+      "model": "infested:block/chitin_slab_full"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_fv": 60,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:SpiderEgg"
+      }
+    ],
+    "information": [
+      "Dropped rarely by Cave Spiders. When used on a block, will spawn a friendly cave spider. If a potion is used on the spider, the effect it applies on hit will change. The color of its eyes can be changed with dye."
+    ]
+  }
+}

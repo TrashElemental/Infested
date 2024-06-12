@@ -1,0 +1,14 @@
+{
+  "_fv": 60,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:CobwebTrap"
+      }
+    ],
+    "information": [
+      "Can be placed to create a temporary cobweb that lasts for ten seconds. Entities wearing the Spider Boots are immune to its effect. Obtainable by shift right-clicking a block with an empty hand while wearing the full Spider Armor set."
+    ]
+  }
+}

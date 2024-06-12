@@ -1,0 +1,40 @@
+{
+  "_fv": 60,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Infested",
+    "type": "ARMOR_CHEST",
+    "rarity": "UNCOMMON",
+    "minLevel": 1,
+    "maxLevel": 2,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "excludeEnchantments": false,
+    "compatibleItems": [
+      {
+        "value": "TAG:forge:shields"
+      },
+      {
+        "value": "TAG:minecraft:shields"
+      },
+      {
+        "value": "TAG:neoforge:shields"
+      },
+      {
+        "value": "TAG:forge:chest_armor"
+      },
+      {
+        "value": "TAG:neoforge:chest_armor"
+      },
+      {
+        "value": "TAG:minecraft:chestplate"
+      }
+    ],
+    "excludeItems": false,
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

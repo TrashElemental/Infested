@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "infested:spider_armor_trim"
+  },
+  "base": {
+    "item": "minecraft:leather_leggings"
+  },
+  "addition": {
+    "item": "minecraft:cobweb"
+  },
+  "result": {
+    "item": "infested:spider_armor_leggings"
+  }
+}

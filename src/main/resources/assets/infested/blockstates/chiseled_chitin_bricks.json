@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "infested:block/chiseled_chitin_bricks",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "infested:block/chiseled_chitin_bricks"
+    },
+    "axis=z": {
+      "model": "infested:block/chiseled_chitin_bricks",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "infested:block/silverfishtrap",
+    "up": "infested:block/silverfishtrap",
+    "north": "infested:block/silverfishtrap",
+    "east": "infested:block/silverfishtrap",
+    "south": "infested:block/silverfishtrap",
+    "west": "infested:block/silverfishtrap",
+    "particle": "infested:block/silverfishtrap"
+  },
+  "render_type": "solid"
+}

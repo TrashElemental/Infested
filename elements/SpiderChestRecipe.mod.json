@@ -1,0 +1,28 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.LEATHER_CHESTPLATE"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Blocks.WEB"
+    },
+    "smithingInputTemplateStack": {
+      "value": "CUSTOM:SpiderArmorTrim"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:SpiderArmor.body"
+    },
+    "name": "spider_chest_recipe",
+    "namespace": "mod"
+  }
+}

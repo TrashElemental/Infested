@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "infested:block/chitinbricks",
+    "top": "infested:block/chitinbricks",
+    "side": "infested:block/chitinbricks"
+  },
+  "render_type": "solid"
+}

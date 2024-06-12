@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "infested:block/chiseledchitintop",
+    "up": "infested:block/chiseledchitintop",
+    "north": "infested:block/chiseledchitin",
+    "east": "infested:block/chiseledchitin",
+    "south": "infested:block/chiseledchitin",
+    "west": "infested:block/chiseledchitin",
+    "particle": "infested:block/chiseledchitintop"
+  },
+  "render_type": "solid"
+}

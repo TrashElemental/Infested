@@ -1,0 +1,23 @@
+{
+  "_fv": 60,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:SpiderArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:SpiderArmor.body"
+      },
+      {
+        "value": "CUSTOM:SpiderArmor.legs"
+      },
+      {
+        "value": "CUSTOM:SpiderArmor.boots"
+      }
+    ],
+    "information": [
+      "Armor made using a Spider Armor Trim. The Hood provides Night Vision, and the Chestpiece increases damage against entities trapped in cobwebs. While wearing the full set, you can shift right click on a block with an empty hand to obtain four Cobweb Traps, consuming some durability in the process. A cobweb trap will also spawn under you when you are attacked. The boots allow you to ignore the slowness from these traps."
+    ]
+  }
+}

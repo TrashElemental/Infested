@@ -1,0 +1,14 @@
+{
+  "_fv": 60,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:RawGrub"
+      }
+    ],
+    "information": [
+      "Can be cooked into a nutritous meal, or fed raw to any arthropod tamed by you to restore a good amount of health."
+    ]
+  }
+}

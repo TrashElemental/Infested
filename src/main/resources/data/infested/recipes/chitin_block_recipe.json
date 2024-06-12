@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "infested:chitin"
+    }
+  },
+  "result": {
+    "item": "infested:chitin_block",
+    "count": 1
+  }
+}

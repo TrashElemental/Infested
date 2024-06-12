@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "infested:chitin"
+    },
+    "b": {
+      "item": "infested:silverfish_eggs"
+    },
+    "c": {
+      "item": "minecraft:infested_stone"
+    }
+  },
+  "result": {
+    "item": "infested:chitin_armor_trim",
+    "count": 1
+  }
+}

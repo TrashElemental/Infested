@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "infested:block/silverfish_trap"
+    },
+    "facing=east": {
+      "model": "infested:block/silverfish_trap",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "infested:block/silverfish_trap",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "infested:block/silverfish_trap",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "infested:block/silverfish_trap",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "infested:block/silverfish_trap",
+      "x": 90
+    }
+  }
+}

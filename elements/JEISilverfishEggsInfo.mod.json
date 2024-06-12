@@ -1,0 +1,14 @@
+{
+  "_fv": 60,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:SilverfishEggs"
+      }
+    ],
+    "information": [
+      "Right click on a block with nothing above it to spawn two silverfish to fight for you for fifteen seconds."
+    ]
+  }
+}

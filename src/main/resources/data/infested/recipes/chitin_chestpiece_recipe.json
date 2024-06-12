@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "infested:chitin_armor_trim"
+  },
+  "base": {
+    "item": "minecraft:leather_chestplate"
+  },
+  "addition": {
+    "item": "infested:chitin"
+  },
+  "result": {
+    "item": "infested:chitin_armor_chestplate"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_fv": 60,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:SilverfishTrap"
+      }
+    ],
+    "information": [
+      "When activated via redstone, this block will disappear and spawn a swarm of Attack Silverfish, which will be hostile to anything they perceive as a threat, including you."
+    ]
+  }
+}

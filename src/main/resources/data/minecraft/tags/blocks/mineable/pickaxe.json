@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "infested:chiseled_chitin_bricks",
+    "infested:chitin_brick_wall",
+    "infested:chitin_brick_stairs",
+    "infested:chitin_brick_slab",
+    "infested:chitin_bricks",
+    "infested:chitin_wall",
+    "infested:chitin_stairs",
+    "infested:chitin_slab",
+    "infested:chitin_block",
+    "infested:silverfish_trap",
+    "infested:spinneret"
+  ]
+}

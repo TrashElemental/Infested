@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "infested:silverfish_eggs"
+    },
+    "title": {
+      "translate": "advancements.infested_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.infested_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "infested_advancement_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "infested:silverfish_eggs"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "infested:spider_egg_advancement"
+}

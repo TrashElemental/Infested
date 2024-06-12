@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crimson_fungus"
+    },
+    "b": {
+      "item": "infested:fried_grub"
+    },
+    "c": {
+      "item": "infested:silverfish_eggs"
+    },
+    "d": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "infested:bug_stew",
+    "count": 1
+  }
+}

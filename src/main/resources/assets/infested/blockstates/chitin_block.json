@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "infested:block/chitin_block"
+    }
+  }
+}

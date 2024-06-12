@@ -1,0 +1,93 @@
+{
+  "_fv": 60,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "chitinarmor_head",
+    "enableBody": true,
+    "textureBody": "chitinarmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "chitinarmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "chitinarmor_boots",
+    "onLeggingsTick": {
+      "name": "ChitinArmorApplyAmbush"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:InfestedCreativeTab"
+    },
+    "armorTextureFile": "chitinarmor",
+    "helmetName": "Chitin Helmet",
+    "bodyName": "Chitin Chestplate",
+    "leggingsName": "Chitin Leggings",
+    "bootsName": "Chitin Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Modelchitinarmor",
+    "helmetModelPart": "head",
+    "helmetModelTexture": "chitinarmor_layer_1.png",
+    "bodyModelName": "Modelchitinarmor",
+    "bodyModelPart": "body",
+    "armsModelPartL": "left_arm",
+    "armsModelPartR": "right_arm",
+    "bodyModelTexture": "chitinarmor_layer_1.png",
+    "leggingsModelName": "Modelchitinarmor",
+    "leggingsModelPartL": "left_leg",
+    "leggingsModelPartR": "right_leg",
+    "leggingsModelTexture": "chitinarmor_layer_2.png",
+    "bootsModelName": "Modelchitinarmor",
+    "bootsModelPartL": "left_shoe",
+    "bootsModelPartR": "right_shoe",
+    "bootsModelTexture": "chitinarmor_layer_1.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 15,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 15,
+    "toughness": 1.0,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": "item.armor.equip_turtle"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Chitin"
+      }
+    ]
+  }
+}

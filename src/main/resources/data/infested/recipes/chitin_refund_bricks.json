@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "infested:chitin_bricks"
+    }
+  ],
+  "result": {
+    "item": "infested:chitin",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "infested:chitin_brick_slab"
+    }
+  },
+  "result": {
+    "item": "infested:chiseled_chitin_bricks",
+    "count": 1
+  }
+}

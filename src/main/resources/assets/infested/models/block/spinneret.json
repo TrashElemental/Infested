@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "infested:block/pistonside",
+    "up": "infested:block/spinnerettop",
+    "north": "infested:block/spinneretside",
+    "east": "infested:block/spinneretside",
+    "south": "infested:block/spinneretside",
+    "west": "infested:block/spinneretside",
+    "particle": "infested:block/pistonside"
+  },
+  "render_type": "solid"
+}

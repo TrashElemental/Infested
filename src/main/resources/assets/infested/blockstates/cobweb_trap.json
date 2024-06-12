@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "infested:block/cobweb_trap"
+    },
+    "facing=east": {
+      "model": "infested:block/cobweb_trap",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "infested:block/cobweb_trap",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "infested:block/cobweb_trap",
+      "y": 270
+    }
+  }
+}

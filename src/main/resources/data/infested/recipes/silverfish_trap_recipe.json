@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "infested:silverfish_eggs"
+    },
+    "b": {
+      "item": "minecraft:cobblestone"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "infested:silverfish_trap",
+    "count": 1
+  }
+}

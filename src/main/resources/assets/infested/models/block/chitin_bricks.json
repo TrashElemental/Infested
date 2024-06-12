@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "infested:block/chitinbricks",
+    "up": "infested:block/chitinbricks",
+    "north": "infested:block/chitinbricks",
+    "east": "infested:block/chitinbricks",
+    "south": "infested:block/chitinbricks",
+    "west": "infested:block/chitinbricks",
+    "particle": "infested:block/chitinbricks"
+  },
+  "render_type": "solid"
+}

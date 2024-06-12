@@ -1,0 +1,23 @@
+{
+  "_fv": 60,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:ChitinArmorArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:ChitinArmorArmor.body"
+      },
+      {
+        "value": "CUSTOM:ChitinArmorArmor.legs"
+      },
+      {
+        "value": "CUSTOM:ChitinArmorArmor.boots"
+      }
+    ],
+    "information": [
+      "Made using the Chitin Armor Trim. The Chestplate comes equipped with one level of the Infested enchantment, and wearing the full set provides a level of the Parasitoid enchantment. Additionally, while wearing the full set, you can occasionally crouch to enter an Ambush. This slows you down, but turns you invisible and deals bonus damage to the first entity you hit while the effect is active."
+    ]
+  }
+}
